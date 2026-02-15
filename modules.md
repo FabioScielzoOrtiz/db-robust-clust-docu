@@ -2,8 +2,8 @@
 
 `models`
 
-   - `FastKmedoidsGGower`
-   - `FoldFastKmedoidsGGower`
+   - `SampleDistClustering`
+   - `FoldSampleDistClustering`
 
 `metrics`
 
